@@ -1,6 +1,6 @@
 # サクスピ Saku Speakのサイト
 
-Saku SpeakのiPhoneアプリ紹介、サポート、プライバシーの静的サイトです。GitHub Pagesは `main` のルートを公開元にします。
+Saku SpeakのiPhone・iPadアプリ紹介、サポート、プライバシーの静的サイトです。GitHub Pagesは `main` のルートを公開元にします。
 
 - [アプリ紹介](https://ki-84.github.io/saku-speak-support/)
 - [サポート](https://ki-84.github.io/saku-speak-support/support.html)
