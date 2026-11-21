@@ -128,6 +128,7 @@ main:focus { outline: none; }
   text-wrap: pretty;
 }
 .hero-lede strong { color: var(--ink); }
+.hero-lede strong span { white-space: nowrap; }
 .hero-action {
   display: flex;
   align-items: center;
