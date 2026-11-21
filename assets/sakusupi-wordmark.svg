@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="174" height="44" viewBox="0 0 174 44" role="img" aria-labelledby="title">
+  <title id="title">サクスピ</title>
+  <g fill="none" stroke="#102F34" stroke-width="5.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M4 13.7h34M12.3 6.6v16M28.8 5.5v13.4c0 10.2-5.2 16.5-14.4 20.2"/>
+    <path d="M61.7 5.4c-2 5.4-5.6 10.6-11.1 15.1m8.6-7.6h19.6c-2.7 12.2-10.5 21.1-22.5 26.5"/>
+    <path d="M91.5 9.8h24.7c-4.5 12.5-13.4 21.7-26.7 28.7m16.7-13.9 15.9 13.7"/>
+    <path d="M134.7 7.1v21.7c0 5.8 3.2 8.5 8.8 8.5h23.1m-31.9-16.2c8.8-1.5 17.6-4.3 25.4-8.1"/>
+    <circle cx="166.7" cy="6.9" r="4.3" stroke-width="3"/>
+  </g>
+</svg>
