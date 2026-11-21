@@ -6,7 +6,7 @@ Saku SpeakのiPhoneアプリ紹介、サポート、プライバシーの静的�
 - [サポート](https://ki-84.github.io/saku-speak-support/support.html)
 - [プライバシー](https://ki-84.github.io/saku-speak-support/privacy.html)
 
-[サクスピのカタカナロゴ](assets/sakusupi-wordmark.svg) と [Sの吹き出しマーク](assets/saku-mark.svg) はSVGです。iPhoneのアイコンとWebのタッチアイコンは同じ吹き出しマークを使います。見出し用のフォントは日本語明朝体 Noto Serif JP のサブセットです。 [ライセンス](assets/serif-OFL.txt)
+[サクスピのカタカナロゴ](assets/sakusupi-wordmark.svg) と [Web用の青いSマーク](assets/saku-mark-blue.svg) はSVGです。カタカナロゴとSマークを組み合わせ、Webのタッチアイコンにも青いSマークを使います。見出し用のフォントは Noto Sans JP のサブセットです。 [ライセンス](assets/bold-OFL.txt)
 
 App Store公開時は、`index.html` に日本のストアのアプリURLと確定価格を掲載します。サポートページにはApp Store Connectへの提出前に販売者の公開連絡先を追加します。
 
